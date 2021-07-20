@@ -1,0 +1,3 @@
+*.db
+/node_modules
+MOCK_DATA.csv
